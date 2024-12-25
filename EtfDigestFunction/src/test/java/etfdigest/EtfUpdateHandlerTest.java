@@ -1,4 +1,4 @@
-package helloworld;
+package etfdigest;
 
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
